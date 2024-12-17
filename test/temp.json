@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "types": "动态随机",
+            "name": "动态随机链路1",
+            "encryption": "chacha20",
+            "mask": "单一伪装",
+            "targetType": 0,
+            "target": "152.136.175.162",
+            "linkLength": 1
+        },
+        {
+            "types": "动态随机",
+            "name": "动态随机链路2",
+            "encryption": "chacha20",
+            "mask": "混合伪装",
+            "targetType": 1,
+            "target": "China",
+            "linkLength": 1
+        }
+    ]
+}
